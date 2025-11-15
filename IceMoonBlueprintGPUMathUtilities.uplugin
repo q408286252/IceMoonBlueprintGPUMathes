@@ -5,8 +5,8 @@
 	"FriendlyName": "IceMoonBlueprintGPUMathUtilities",
 	"Description": "",
 	"Category": "Other",
-	"CreatedBy": "",
-	"CreatedByURL": "",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "https://space.bilibili.com/26898/dynamic?spm_id_from=444.41.my-info.face.click",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
@@ -18,7 +18,7 @@
 		{
 			"Name": "IceMoonBlueprintGPUMathUtilities",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "EarliestPossible"
 		}
 	]
 }

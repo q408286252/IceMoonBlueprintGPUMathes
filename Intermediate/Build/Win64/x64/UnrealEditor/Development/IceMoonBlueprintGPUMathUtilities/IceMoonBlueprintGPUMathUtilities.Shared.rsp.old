@@ -283,7 +283,6 @@
 /I "Editor/SceneDepthPickerMode/Public"
 /I "../Intermediate/Build/Win64/UnrealEditor/Inc/AnimationEditMode/UHT"
 /I "Editor/AnimationEditMode/Public"
-/I "E:/BaiduSyncdisk/project/Test550/Plugins/IceMoonBlueprintGPUMathUtilities/Intermediate/Build/Win64/UnrealEditor/Inc/IceMoonBlueprintGPUMathUtilities/UHT"
 /I "E:/BaiduSyncdisk/project/Test550/Plugins/IceMoonBlueprintGPUMathUtilities/Source"
 /I "E:/BaiduSyncdisk/project/Test550/Plugins/IceMoonBlueprintGPUMathUtilities/Source/IceMoonBlueprintGPUMathUtilities/Public"
 /I "E:/BaiduSyncdisk/project/Test550/Intermediate/Build/Win64/x64/MyProjectEditor/Development/UnrealEd"
