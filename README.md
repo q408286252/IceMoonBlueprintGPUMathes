@@ -10,7 +10,7 @@
 
 |**HLSL/GLSL 关键字**|**蓝图节点 (DisplayName)**|**统一优势**|
 |---|---|---|
-|`saturate(x)`|`IM_Saturate (GPU)`|避免使用冗长的 `FMath::Clamp(x, 0.f, 1.f)`，与 GPU 编程中的语义完全一致。|
+|`saturate(x)`|`Saturate (GPU)`|避免使用冗长的 `FMath::Clamp(x, 0.f, 1.f)`，与 GPU 编程中的语义完全一致。|
 
 所有函数都可在蓝图的 `IM | GPU | Math` 和 `IM | GPU | Rotation` 分类中找到。该库的内容会根据作者的**实际项目需求**进行迭代更新，以确保所有函数都具有高实用性。
 
